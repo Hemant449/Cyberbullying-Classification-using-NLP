@@ -1,0 +1,13 @@
+# Dataset and private/manual-review artefacts
+data/*.csv
+cyberbullying_blind_review.csv
+cyberbullying_blind_review_completed.csv
+cyberbullying_audit_key_PRIVATE.csv
+
+# Python/Jupyter local state
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
